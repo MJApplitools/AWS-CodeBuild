@@ -49,6 +49,6 @@ If you want to run tests directly from the command line, run this instead:
 npx cypress run
 ```
  
-**For full instructions on running this project, take our
+**For full instructions on running this project, take our  
 [Cypress JavaScript tutorial](https://applitools.com/tutorials/quickstart/web/cypress)!**
  
